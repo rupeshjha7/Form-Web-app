@@ -1,0 +1,16 @@
+$bgcolor:green;
+$jumbotronBg:yellow;
+
+
+body{
+    background-color: $bgcolor;
+}
+.jumbotron{
+    background-color: $jumbotronBg !important;
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.table{
+    color:white;
+}
